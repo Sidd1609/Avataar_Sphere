@@ -7,15 +7,15 @@
 
 This repository contains a windowed application that renders a grid of 36 spheres using a specified shading model. The application utilizes an orthographic camera for rendering and provides interactive features such as changing sphere colors on mouse-click events.
 
-## Features
+## Completed Deliverables
 
-1. **Grid Rendering:**
-    - [ ] Create a windowed application.
-    - [ ] Render 36 spheres in a 6x6 grid-like pattern.
+**Sphere Rendering Application:**
+1. **Initial Setup:**
+    - [ ] Create a windowed application that renders 36 spheres in a 6x6 grid-like pattern.
 
 2. **Shading:**
-    - [ ] Apply a shading model to the spheres.
-    - [ ] Use an orthographic camera for consistent visibility.
+    - [X] Applied a shading model to the spheres.
+    - [ ] Used an orthographic camera for consistent visibility.
 
 3. **Parameter Variation:**
     - [ ] Choose any 2 parameters of the shading model.
