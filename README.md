@@ -53,7 +53,7 @@ This repository contains the codebase for a simple application in OpenGL written
 <!--![Result GIF](Main_Result.gif)-->
 
 ## Contributors
-- Sri Siddarth Chakaravarthy
+- Sri Siddarth C
 
 ## License
 
