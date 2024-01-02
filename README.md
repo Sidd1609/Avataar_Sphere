@@ -13,18 +13,22 @@ This repository contains the codebase for a simple application in OpenGL written
     - [✅] Used an orthographic camera for consistent visibility.
 
 3. **Parameter Variation:**
-    - [✅] Choose any 2 parameters of the shading model and have these parameters change linearly over the two axes (left to right, and top to bottom).
+    - [✅] Choose diffuse and spectral parameters of the shading model and change these parameters linearly over the two axes (left to right, and top to bottom).
 
 4. **Interactive Color Change:**
-    - [✅] Register mouse-click events that trigger a color change of the clicked sphere to the normal color at that point colorised.
+    - [✅] Register mouse-click events that trigger a color change of the clicked sphere to the normal color at that point colorized.
 
 5. **Deselection and Exit:**
     - [✅] Register mouse-click to deselect the previous change on the sphere and return to normal when a click event occurs outside any sphere.
     - [✅] Trigger application exit by pressing the ESC key.
-    - 
+  
 ## Getting Started
 ### Prerequisites
-- [ ] List any prerequisites or dependencies.
+- Python==3.8.18
+- pygame==2.5.2
+- pyopengl==3.1.6
+- pyopengl-accelerate==3.1.7
+- glfw==2.6.4
 
 ### Installation
 
@@ -40,8 +44,6 @@ This repository contains the codebase for a simple application in OpenGL written
    python3 6Spheres_main.py
    ```
 
-### Usage
-- [ ] Describe how to run and use the application.
 
 ## Contributors
 - Sri Siddarth Chakaravarthy
