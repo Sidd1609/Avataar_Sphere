@@ -7,41 +7,49 @@
 
 This repository contains a windowed application that renders a grid of 36 spheres using a specified shading model. The application utilizes an orthographic camera for rendering and provides interactive features such as changing sphere colors on mouse-click events.
 
-## Completed Deliverables
-
-**Sphere Rendering Application:**
-1. **Initial Setup:**
-    - [ ] Create a windowed application that renders 36 spheres in a 6x6 grid-like pattern.
-2. **Shading:**
-    - [✅]  Applied a shading model to the spheres.
-    - [ ] Used an orthographic camera for consistent visibility.
-
-3. **Parameter Variation:**
-    - [ ] Choose any 2 parameters of the shading model.
-    - [ ] Have these parameters change linearly over the two axes (left to right, and top to bottom).
-
-4. **Interactive Color Change:**
-    - [ ] Register mouse-click events.
-    - [ ] Change the color of the clicked sphere to the normal color at that point.
-
-5. **Deselection and Exit:**
-    - [ ] Deselect the sphere and return to normal when a click event occurs outside any sphere.
-    - [ ] Trigger application exit on pressing the ESC key.
-
 ## Getting Started
 
 ### Prerequisites
 - [ ] List any prerequisites or dependencies.
 
 ### Installation
-- [ ] Provide installation instructions.
+
+**Clone the Repository:**
+   ```bash
+   git clone https://github.com/Sidd1609/Avataar_Sphere.git
+   cd Avataar_Sphere
+
+   #Install the requirements
+   pip install -r requirements.txt
+
+   #Execute the Windowed Application by running the script
+   python3 6Spheres_main.py
+   ```
 
 ### Usage
 - [ ] Describe how to run and use the application.
 
 ## Contributors
+- Sri Siddarth Chakaravarthy
 
-- [ ] Add contributors' names and contributions.
+
+## Completed Deliverables
+**Sphere Rendering Application:**
+1. **Initial Setup:**
+    - [✅] Create a windowed application that renders 36 spheres in a 6x6 grid-like pattern.
+2. **Shading:**
+    - [✅]  Applied a shading model to the spheres.
+    - [✅] Used an orthographic camera for consistent visibility.
+
+3. **Parameter Variation:**
+    - [✅] Choose any 2 parameters of the shading model and have these parameters change linearly over the two axes (left to right, and top to bottom).
+
+4. **Interactive Color Change:**
+    - [✅] Register mouse-click events that trigger a color change of the clicked sphere to the normal color at that point colorised.
+
+5. **Deselection and Exit:**
+    - [✅] Register mouse-click to deselect the previous change on the sphere and return to normal when a click event occurs outside any sphere.
+    - [✅] Trigger application exit by pressing the ESC key.
 
 ## License
 
