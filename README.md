@@ -47,10 +47,10 @@ This repository contains the codebase for a simple application in OpenGL written
 ## Result
 
 <p align="center">
-  <img src="Main_Result.gif" alt="Your GIF" width="400" height="300">
+  <img src="Main_Result.gif" alt="Your GIF" width="600" height="600">
 </p>
 
-![Result GIF](Main_Result.gif)
+<!--![Result GIF](Main_Result.gif)-->
 
 ## Contributors
 - Sri Siddarth Chakaravarthy
