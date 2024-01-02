@@ -50,6 +50,9 @@ This repository contains the codebase for a simple application in OpenGL written
   <img src="Main_Result.gif" alt="Your GIF" width="800" height="600">
 </p>
 
+
+#### NOTE: 
+Please find more details of the code breakdown and idea discussions in the PPT file.
 <!--![Result GIF](Main_Result.gif)-->
 
 ## Contributors
