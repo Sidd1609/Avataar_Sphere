@@ -44,6 +44,13 @@ This repository contains the codebase for a simple application in OpenGL written
    python3 6Spheres_main.py
    ```
 
+## Result
+
+<p align="center">
+  <img src="Main_Result.gif" alt="Your GIF" width="400" height="300">
+</p>
+
+![Result GIF](Main_Result.gif)
 
 ## Contributors
 - Sri Siddarth Chakaravarthy
