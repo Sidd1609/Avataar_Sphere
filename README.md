@@ -47,7 +47,7 @@ This repository contains the codebase for a simple application in OpenGL written
 ## Result
 
 <p align="center">
-  <img src="Main_Result.gif" alt="Your GIF" width="600" height="600">
+  <img src="Main_Result.gif" alt="Your GIF" width="800" height="600">
 </p>
 
 <!--![Result GIF](Main_Result.gif)-->
