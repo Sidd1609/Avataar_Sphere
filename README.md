@@ -5,10 +5,27 @@
 
 ## Overview
 
-This repository contains a windowed application that renders a grid of 36 spheres using a specified shading model. The application utilizes an orthographic camera for rendering and provides interactive features such as changing sphere colors on mouse-click events.
+This repository contains the codebase for a simple application in OpenGL written in Python. The following features are available in this application.
 
+### Completed Deliverables
+**Sphere Rendering Application:**
+1. **Initial Setup:**
+    - [✅] Create a windowed application that renders 36 spheres in a 6x6 grid-like pattern.
+2. **Shading:**
+    - [✅]  Applied a shading model to the spheres.
+    - [✅] Used an orthographic camera for consistent visibility.
+
+3. **Parameter Variation:**
+    - [✅] Choose any 2 parameters of the shading model and have these parameters change linearly over the two axes (left to right, and top to bottom).
+
+4. **Interactive Color Change:**
+    - [✅] Register mouse-click events that trigger a color change of the clicked sphere to the normal color at that point colorised.
+
+5. **Deselection and Exit:**
+    - [✅] Register mouse-click to deselect the previous change on the sphere and return to normal when a click event occurs outside any sphere.
+    - [✅] Trigger application exit by pressing the ESC key.
+    - 
 ## Getting Started
-
 ### Prerequisites
 - [ ] List any prerequisites or dependencies.
 
@@ -32,26 +49,8 @@ This repository contains a windowed application that renders a grid of 36 sphere
 ## Contributors
 - Sri Siddarth Chakaravarthy
 
-
-## Completed Deliverables
-**Sphere Rendering Application:**
-1. **Initial Setup:**
-    - [✅] Create a windowed application that renders 36 spheres in a 6x6 grid-like pattern.
-2. **Shading:**
-    - [✅]  Applied a shading model to the spheres.
-    - [✅] Used an orthographic camera for consistent visibility.
-
-3. **Parameter Variation:**
-    - [✅] Choose any 2 parameters of the shading model and have these parameters change linearly over the two axes (left to right, and top to bottom).
-
-4. **Interactive Color Change:**
-    - [✅] Register mouse-click events that trigger a color change of the clicked sphere to the normal color at that point colorised.
-
-5. **Deselection and Exit:**
-    - [✅] Register mouse-click to deselect the previous change on the sphere and return to normal when a click event occurs outside any sphere.
-    - [✅] Trigger application exit by pressing the ESC key.
-
 ## License
 
-- [ ] Specify the license for the project.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
