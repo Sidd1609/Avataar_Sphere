@@ -14,7 +14,7 @@ This repository contains a windowed application that renders a grid of 36 sphere
     - [ ] Create a windowed application that renders 36 spheres in a 6x6 grid-like pattern.
 
 2. **Shading:**
-    - [X] Applied a shading model to the spheres.
+    - [ X ]  Applied a shading model to the spheres.
     - [ ] Used an orthographic camera for consistent visibility.
 
 3. **Parameter Variation:**
