@@ -52,7 +52,7 @@ This repository contains the codebase for a simple application in OpenGL written
 
 
 #### NOTE: 
-Please find more details of the code breakdown and idea discussions in the PPT file.
+Please find more details of the code breakdown and idea discussions in the PPT file [here](https://docs.google.com/presentation/d/1q-nEfDLhR1gFIIA_vCpWUGFg4YGi-26B/edit?usp=sharing&ouid=106409302353017109999&rtpof=true&sd=true).
 <!--![Result GIF](Main_Result.gif)-->
 
 ## Contributors
