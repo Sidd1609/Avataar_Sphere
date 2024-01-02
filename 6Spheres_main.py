@@ -58,7 +58,7 @@ def setup_material(diffuse, specular, color):
 
 
 def calculate_sphere_normal(x, y, z, l, m, n, radius):
-    #Vertext Normal at the Point Clicked on the Sphere
+    #Normal at the Point Clicked on the Sphere
     normal_x = (x - l) / radius #Scaling it with [0,1] for reducing computation
     normal_y = (y - m) / radius
     normal_z = (z - n) / radius
