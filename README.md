@@ -1,7 +1,4 @@
-# Avataar_Sphere
-
-
-# 3D Spheres Rendering Application
+# Avataar: 3D Spheres Rendering Application
 
 ## Overview
 
